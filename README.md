@@ -30,6 +30,7 @@ git clone https://github.com/mmahmed15/OpenFOAM_UMD.git
 cd OpenFOAM_UMD
 unzip ThirdParty-dev.zip
 unzip OpenFOAM-dev.zip
+chmod -R +x *
 ```
 
 
